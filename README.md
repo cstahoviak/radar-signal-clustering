@@ -1,5 +1,6 @@
 # radar-signal-clustering
-Implementation of the DENSTREAM algorithm for clustering radar targets based on [Robust Localization based on Radar Signal Clustering](https://ieeexplore.ieee.org/document/7535485)
+Implementation of the DENSTREAM algorithm for clustering radar targets based on [Robust Localization based on Radar Signal Clustering](https://ieeexplore.ieee.org/document/7535485), Schuster, et al 2016.
+
 
 
 
